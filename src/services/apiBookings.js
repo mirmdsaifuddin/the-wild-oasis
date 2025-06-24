@@ -1,5 +1,5 @@
 import { getToday } from "../utils/helpers";
-import supabase from "./temp";
+import supabase from "./supabase";
 import { PAGE_SIZE } from "../utils/constant";
 
 //const PAGE_SIZE = 10;
